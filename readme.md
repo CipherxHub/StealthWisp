@@ -5,7 +5,7 @@
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Penetration%20Testing-yellow?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Educational%20Use-only-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GNU%203.0-green?style=for-the-badge)
 
 **Advanced WiFi Network Security Scanner for Windows Systems**
 
@@ -70,7 +70,7 @@ StealthWisp.bat
 
 ### Method 1: Automated Setup
 ```batch
-git clone https://github.com/yourusername/StealthWisp.git
+git clone https://github.com/CipherxHub/StealthWisp.git
 cd StealthWisp
 # Configure settings and run
 ```
@@ -255,8 +255,8 @@ Please report security vulnerabilities through appropriate channels following re
 
 *StealthWisp - Professional WiFi Security Assessment Tool*
 
-[![Star](https://img.shields.io/github/stars/yourusername/StealthWisp?style=social)](https://github.com/yourusername/StealthWisp)
-[![Fork](https://img.shields.io/github/forks/yourusername/StealthWisp?style=social)](https://github.com/yourusername/StealthWisp/fork)
+[![Star](https://img.shields.io/github/stars/CipherxHub/StealthWisp?style=social)](https://github.com/CipherxHub/StealthWisp)
+[![Fork](https://img.shields.io/github/forks/CipherxHub/StealthWisp?style=social)](https://github.com/CipherxHub/StealthWisp/fork)
 
 </div>
 
