@@ -7,7 +7,8 @@
 ![Security](https://img.shields.io/badge/Security-Penetration%20Testing-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-GNU%203.0-green?style=for-the-badge)
 
-**Advanced WiFi Network Security Scanner for Windows Systems**
+
+**Blog Post**: [StealthWisp - The Ghost WiFi Auditor for Windows](https://www.witwaves.in/posts/stealthwisp-the-ghost-wifi-auditor-for-windows)                                   
 
 </div>
 
